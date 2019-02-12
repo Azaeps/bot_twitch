@@ -65,6 +65,9 @@ client.on('chat', (channel, user, message, isSelf) => {
             case "yemen":
                 client.say(channel, "JE SUIS ANALYSTE FINANCIER JE NPEUX PAS ALLER AU YEMEN");
                 break;
+            case "ecoute":
+                client.say(channel, "Ecoute moi bien mon petit pote , que les choses soient claires. Tu n´es pas intouchable, contrairement à ce que tu crois. On sait que tu postes depuis ta chambre, quelque part dans le monde. On a tous tes coordonnées postales. Donc je te conseille d´arrêter de dire des conneries si tu ne veux pas devoir expliquer à tes parents pourquoi ils doivent aller purger une peine pour payer tes anneries.");
+                break;
         }
     } else {
         let words = message.toLowerCase().split(" ");

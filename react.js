@@ -1,4 +1,4 @@
 const reactions = {
-    "mdr" : "OH LOL IL VIENT DE MOURIR DE RIRE XDXD",
+    "^^" : "MANGE TON CHAPO CHAPO DE MERDE GROKONAR",
 }
 module.exports = reactions;
