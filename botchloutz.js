@@ -10,8 +10,8 @@ const tmiConfig = {
         reconnect:  true
     },
     identity: {
-        username: "shuuuuuulz",
-        password: "oauth:42oorjrofccpsjrckj1vs4cp2p3804"
+        username: "bestbotfr",
+        password: "oauth:gwbs6f0jdofmvefjorjgmvpvn9waov"
     },
     channels: [
         "z_trahm"
